@@ -28,7 +28,8 @@ body {
   &__items {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    row-gap: 65px;
+    column-gap: 35px;
   }
 
   &__top {
